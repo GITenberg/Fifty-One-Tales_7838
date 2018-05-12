@@ -1,6 +1,9 @@
 _repo: Fifty-One-Tales_7838
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: 51 Tales
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunsany, Lord
@@ -25,6 +28,8 @@ description: "Fifty-One Tales is a collection of fantasy short stories by Irish 
   \ of the Newcastle Forgotten Fantasy Library in September, 1974. The Newcastle edition\
   \ used the American version of the text.\nThe book collects fifty-one short stories\
   \ by the author.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7838#Fifty-One-Tales
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
